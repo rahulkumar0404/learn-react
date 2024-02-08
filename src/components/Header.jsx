@@ -1,4 +1,3 @@
-// import {reactImg} from ;
 import reactImg from '../assets/react-core-concepts.png';
 export default function Header() {
   return (
